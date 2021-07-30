@@ -1,5 +1,6 @@
 # bloqueoIpPeligrosas
-Archivo con IPS potencialmente peligrosas.
+#Archivo con IPS potencialmente peligrosas.
+# AÑADIRLAS EN EL FIREWALL DE WINDOWS  
 95.143.218.78
 185.253.96.49
 95.211.192.231
